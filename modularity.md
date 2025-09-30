@@ -18,12 +18,8 @@ Consider:
 
 ## Pick a language for your assignment
 
-[C++](https://classroom.github.com/a/HgP6C2sf)
+[C#](https://classroom.github.com/a/rb-sqyir)
 
-[C#](https://classroom.github.com/a/k3LJiS4q)
+[Python](https://classroom.github.com/a/7JLZ1sPX)
 
-[Java](https://classroom.github.com/a/Xaaa2BPk)
 
-[Python](https://classroom.github.com/a/bFU4cDVg)
-
-[JavaScript](https://classroom.github.com/a/HBThRLS6)
