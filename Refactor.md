@@ -6,7 +6,7 @@ Try a simple assignment to reduce duplication, and achieve semantic distance by 
 
 
 
-[C#](https://classroom.github.com/a/YI0ChXXR)
+[C#](https://classroom.github.com/a/HCLTlhAv)
 
-[Python](https://classroom.github.com/a/eFh1caTA)
+[Python](https://classroom.github.com/a/bjV70J_T)
 
