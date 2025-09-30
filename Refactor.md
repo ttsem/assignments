@@ -8,5 +8,5 @@ Try a simple assignment to reduce duplication, and achieve semantic distance by 
 
 [C#](https://classroom.github.com/a/HCLTlhAv)
 
-[Python](https://classroom.github.com/a/bjV70J_T)
+[Python](https://classroom.github.com/a/svx6me9N)
 
