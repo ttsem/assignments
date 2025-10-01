@@ -6,7 +6,7 @@ Try a simple assignment to apply SOLID principles
 
 
 
-[C#](https://classroom.github.com/a/HCLTlhAv)
+[C#](https://classroom.github.com/a/-l8o4W6G)
 
 [Python](https://classroom.github.com/a/00vkEFmp)
 
