@@ -13,7 +13,7 @@ This is an experiential learning experience - Concepts with live coding sessions
 
 [Modularity](modularity.md)
 
-[Refactor](Refactor.md)
+[solid](SOLID.md)
 
 ## References
 
